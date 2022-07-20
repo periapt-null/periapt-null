@@ -3,25 +3,25 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/Alex-Bloggs?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/Alex-Bloggs&query=$.public_repos&style=for-the-badge&label=Public Repos&color=fa7970&labelColor=363e53"/>
+  <a href="https://github.com/periapt-null?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/periapt-null&query=$.public_repos&style=for-the-badge&label=Public Repos&color=fa7970&labelColor=363e53"/>
   </a> 
-  <a href="https://github.com/Alex-Bloggs?tab=repositories&sort=stargazers">
+  <a href="https://github.com/periapt-null?tab=repositories&sort=stargazers">
     <img src="https://img.shields.io/github/stars/Alex-Bloggs?label=TOTAL STARS&style=for-the-badge&color=faa356&labelColor=363e53"/>
   </a>
-  <a href="https://github.com/Alex-Bloggs?tab=followers">
-    <img src="https://img.shields.io/github/followers/Alex-Bloggs?style=for-the-badge&color=7ce38b&labelColor=363e53"/>
+  <a href="https://github.com/periapt-null?tab=followers">
+    <img src="https://img.shields.io/github/followers/periapt-null?style=for-the-badge&color=7ce38b&labelColor=363e53"/>
 </p>
 
 ## ? Github Online Status:
 <br />
 <p align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Bloggs&theme=dracula&hide_border=true" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=periapt-null&theme=dracula&hide_border=true" />
 </a>
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Alex-Bloggs&theme=tokyonight&show_icons=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=periapt-null&theme=tokyonight&show_icons=true" />
     
-  <img height="200" style="margin-left: 3%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Bloggs&theme=tokyonight" />
+  <img height="200" style="margin-left: 3%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=periapt-null&theme=tokyonight" />
 </p>
 
 ## Stuff Im Interested In:
