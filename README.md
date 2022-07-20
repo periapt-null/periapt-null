@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/periapt-null&query=$.public_repos&style=for-the-badge&label=Public Repos&color=fa7970&labelColor=363e53"/>
   </a> 
   <a href="https://github.com/periapt-null?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/Alex-Bloggs?label=TOTAL STARS&style=for-the-badge&color=faa356&labelColor=363e53"/>
+    <img src="https://img.shields.io/github/stars/periapt-null?label=TOTAL STARS&style=for-the-badge&color=faa356&labelColor=363e53"/>
   </a>
   <a href="https://github.com/periapt-null?tab=followers">
     <img src="https://img.shields.io/github/followers/periapt-null?style=for-the-badge&color=7ce38b&labelColor=363e53"/>
@@ -39,6 +39,8 @@
 ![THM](https://img.shields.io/badge/THM-%23000000.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)
 ![MLH](https://img.shields.io/badge/MLH-%23000000.svg?style=for-the-badge&logo=Major-League-Hacking&logoColor=white)
 ![Arm-Machines](https://img.shields.io/badge/ArmLearning-%23000000.svg?style=for-the-badge&logo=arm&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-%23000000.svg?style=for-the-badge&logo=arm&logoColor=white)
+![CyberSecurity](https://img.shields.io/badge/HTB-%23000000.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=white)
 
 
 #### Libraries I have Messed With:
